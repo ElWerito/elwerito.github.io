@@ -1,5 +1,14 @@
+h1,
+p{
+font-family: Arial;
+text-align: center;
+}
+
 h1{
 color:red;
+background-color:blue; 
+padding: 10px;
+text-weight: bold;
 }
 body{
 background-color: cyan;}
