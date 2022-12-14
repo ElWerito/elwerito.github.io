@@ -3,13 +3,21 @@ p{
 font-family: Arial;
 text-align: center;
 }
+
 img{
-text-align: center;}
+text-align: center;
+}
+
 h1{
 color:red;
 background-color:blue; 
 padding: 10px;
 text-weight: bold;
 }
+#helado{
+width:300px;
+height:300px;
+text-align:center;}
+
 body{
 background-color: cyan;}
